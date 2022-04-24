@@ -56,10 +56,10 @@
 		3375873028151A41000A6243 /* QR_Maker_Code */ = {
 			isa = PBXGroup;
 			children = (
+				3375873728151A41000A6243 /* Main.storyboard */,
 				3375873128151A41000A6243 /* AppDelegate.swift */,
 				3375873328151A41000A6243 /* SceneDelegate.swift */,
 				3375873528151A41000A6243 /* ViewController.swift */,
-				3375873728151A41000A6243 /* Main.storyboard */,
 				3375873A28151A43000A6243 /* Assets.xcassets */,
 				3375873C28151A43000A6243 /* LaunchScreen.storyboard */,
 				3375873F28151A43000A6243 /* Info.plist */,
